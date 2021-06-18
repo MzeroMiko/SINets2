@@ -34,4 +34,6 @@ SINetv2 SLoss 100 TRUE FALSE ***0.810 0.882 0.672 0.038***
 SI_Decs SLoss 100 TRUE FALSE ***0.822 0.893 0.701 0.034***    
 SI_MinDecs SLoss 100 TRUE FALSE ***0.822 0.896 0.702 0.034***     
 
+------------------------------------------------------------------   
+see https://github.com/DengPingFan/SINet and https://github.com/GewelsJI/SINet-V2
 
